@@ -1,1 +1,2 @@
 vercel - site para deploy
+react-slick - pra fazer carousel
